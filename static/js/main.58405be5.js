@@ -10126,7 +10126,7 @@
                     className: ih
                 }, t)))
             }, ch.Section = uh;
-            var //dh = n.p + "static/media/Cyberattack-cuate.a120d44c86141a29d90b578255e3ea3a.svg",
+            var dh = n.p + "static/media/Cyberattack-cuate.a120d44c86141a29d90b578255e3ea3a.svg",
                 fh = {},
                 ph = {};
 
