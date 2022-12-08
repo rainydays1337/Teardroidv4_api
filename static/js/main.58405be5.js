@@ -6896,7 +6896,7 @@
                                 style: {
                                     padding: "15px"
                                 },
-                                src: "https://ik.imagekit.io/jiqzdjrnxp9/IMG-20220122-WA0000_RdKN5Rv3U.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1642847363169"
+                                src: "static/media/alpha.png"
                             }), (0, oc.jsx)(Wo.Section, {
                                 title: "Rafflesia Android v4.1",
                                 items: [{
@@ -10075,6 +10075,7 @@
                     className: c
                 }, t))
             }
+            /*
             var Xp = "Polaris-Layout",
                 Jp = "Polaris-Layout__Section",
                 eh = "Polaris-Layout__Section--secondary",
@@ -10129,6 +10130,7 @@
             var dh = {},
                 fh = {},
                 ph = {};
+            */
 
             function hh(e) {
                 return new Function("d", "return {" + e.map((function(e, t) {
