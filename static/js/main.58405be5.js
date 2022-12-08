@@ -6896,7 +6896,7 @@
                                 style: {
                                     padding: "15px"
                                 },
-                                src: "static/media/alpha.png"
+                                src: "/static/media/alpha.png"
                             }), (0, oc.jsx)(Wo.Section, {
                                 title: "Rafflesia Android v4.1",
                                 items: [{
