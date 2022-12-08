@@ -10075,7 +10075,6 @@
                     className: c
                 }, t))
             }
-            /*
             var Xp = "Polaris-Layout",
                 Jp = "Polaris-Layout__Section",
                 eh = "Polaris-Layout__Section--secondary",
@@ -10127,10 +10126,9 @@
                     className: ih
                 }, t)))
             }, ch.Section = uh;
-            var dh = {},
+            var //dh = n.p + "static/media/Cyberattack-cuate.a120d44c86141a29d90b578255e3ea3a.svg",
                 fh = {},
                 ph = {};
-            */
 
             function hh(e) {
                 return new Function("d", "return {" + e.map((function(e, t) {
