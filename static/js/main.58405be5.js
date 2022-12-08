@@ -10771,7 +10771,7 @@
                             stroke: "#00000",
                             strokeWidth: .5
                         }), t.length > 0 && (0, oc.jsx)(wm.Geographies, {
-                            geography: "https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json",
+                            geography: "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json",
                             children: function(e) {
                                 return e.geographies.map((function(e) {
                                     var n = t.find((function(t) {
